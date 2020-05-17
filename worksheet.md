@@ -6,6 +6,8 @@ Use this to detail how you relate to the [four phases](./phases.md).
 
 Detail below what feelings you're having related to solving an unsolvable problem. For example, "I don't know what to do to get ahead at work right now".
 
+- This is the worst feeling ever WAH. 
+
 ## Phase 2: Resourcing & analysis
 
 Talk to your group about what's going on Phase 1. The group can support you by speaking on their experience and giving recommendations. Write these down. Also add here any online resource, organizations, etc. that will help you.
